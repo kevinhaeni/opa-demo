@@ -39,8 +39,8 @@ data = {
         "salary": "5000",
         "position": "System Admin"
     },
-    'carl': {
-        "fullname": "Carl M.",
+    'charlie': {
+        "fullname": "Charlie S.",
         "age": 54,
         "salary": "15000",
         "position": "CEO"
